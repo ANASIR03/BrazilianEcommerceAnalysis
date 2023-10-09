@@ -3,11 +3,11 @@ Comprehensive analysis of the Brazilian e-commerce landscape using the Olist dat
 
 # Key areas of focus included:
 
-  Assessing the overall lucrativeness of the Brazilian e-commerce market.
-  Identifying optimal cities for headquarters setup.
-  Determining the most viable product category.
-  Analyzing the competitive landscape.
-  Uncovering prevalent issues in the market through customer feedback.
+- Assessing the overall lucrativeness of the Brazilian e-commerce market.
+- Identifying optimal cities for headquarters setup.
+- Determining the most viable product category.
+- Analyzing the competitive landscape.
+- Uncovering prevalent issues in the market through customer feedback.
 
 # Key Findings
 
@@ -23,17 +23,19 @@ Comprehensive analysis of the Brazilian e-commerce landscape using the Olist dat
 
 # Recommendations
 
-Prioritize accurate product representations online.
-Establish local distribution centers within Rio for faster deliveries.
-Implement robust inventory management systems.
-Offer transparent and hassle-free refund policies for increased customer trust.
-Dataset
-The dataset comprises multiple files, capturing customer information, orders, payments, reviews, and more. It provides a holistic view of the e-commerce activities on the Olist platform.
+- Prioritize accurate product representations online.
+- Establish local distribution centers within Rio for faster deliveries.
+- Implement robust inventory management systems.
+- Offer transparent and hassle-free refund policies for increased customer trust.
+
+# Dataset
+
+The dataset comprises of 8 total files. 
 
 # Tools and Skills
 
-Python and Pandas: Used for data cleaning, manipulation, and analysis.
-Matplotlib and Seaborn: For data visualization.
-Sentiment Analysis: Basic sentiment analysis was conducted by translating Portuguese reviews to English and categorizing the feedback.
-Geospatial Analysis: Customer distribution across Rio was visualized to assist in logistics planning.
+- Python and Pandas: Used for data cleaning, manipulation, and analysis.
+- Matplotlib and Seaborn: For data visualization.
+- Sentiment Analysis: Basic sentiment analysis was conducted by translating Portuguese reviews to English and categorizing the feedback.
+- Geospatial Analysis: Customer distribution across Rio was visualized to assist in logistics planning.
 
